@@ -1,0 +1,16 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "this is noor learning react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "learning",
+    "reaxt"
+  ],
+  "author": "noor",
+  "license": "ISC"
+}
